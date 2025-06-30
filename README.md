@@ -1,10 +1,10 @@
-# Instig8.AI Viral OS
+# Social Viral Agent
 
 A powerful N8N workflow automation system for social media content analysis and viral content strategy generation.
 
 ## 🚀 Overview
 
-Instig8.AI Viral OS is an automated workflow that helps content creators and marketers:
+Social Viral OS is an automated workflow that helps content creators and marketers:
 - Scrape and analyze content from 6 major social platforms
 - Perform sentiment analysis on audience engagement
 - Generate AI-powered viral content playbooks
